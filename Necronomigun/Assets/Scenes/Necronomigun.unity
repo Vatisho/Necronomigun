@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 0
+  m_Fog: 1
   m_FogColor: {r: 0.26680905, g: 0.24827339, b: 0.41509432, a: 1}
   m_FogMode: 2
   m_FogDensity: 0.175
@@ -386,7 +386,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: ea262d8c995c540448d0e43e3e1b9168, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9c9208696cde5e941ba0c46fcf0b8660, type: 2}
+      objectReference: {fileID: 2100000, guid: b55d9cb0deac2d94b968f7c6aef75a89, type: 2}
     - target: {fileID: 919132149155446097, guid: ea262d8c995c540448d0e43e3e1b9168, type: 3}
       propertyPath: m_Name
       value: Lamp
@@ -976,7 +976,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5840e7a2877f87b4b9180b451aeb4690, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9c9208696cde5e941ba0c46fcf0b8660, type: 2}
+      objectReference: {fileID: 2100000, guid: b55d9cb0deac2d94b968f7c6aef75a89, type: 2}
     - target: {fileID: 919132149155446097, guid: 5840e7a2877f87b4b9180b451aeb4690, type: 3}
       propertyPath: m_Name
       value: Statue
@@ -1176,7 +1176,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1951021545}
   m_LocalRotation: {x: -0.00000008146034, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0878, z: 0.0023}
+  m_LocalPosition: {x: 0, y: 0.0858, z: 0.0023}
   m_LocalScale: {x: 0.046939053, y: 0.017275626, z: 0.046939053}
   m_ConstrainProportionsScale: 0
   m_Children: []
