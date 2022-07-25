@@ -27,7 +27,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Escopeta
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Escoputa
+    uniqueID: 4171103651
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
