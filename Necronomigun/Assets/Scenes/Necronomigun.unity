@@ -3306,7 +3306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e784d7932a6c1c49bfab612cc8d0ee9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 205.4968
+      value: 204.14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e784d7932a6c1c49bfab612cc8d0ee9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3339,6 +3339,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0e784d7932a6c1c49bfab612cc8d0ee9, type: 3}
       propertyPath: m_Name
       value: Female Dynamic Pose
+      objectReference: {fileID: 0}
+    - target: {fileID: 1939934395018120512, guid: 0e784d7932a6c1c49bfab612cc8d0ee9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e784d7932a6c1c49bfab612cc8d0ee9, type: 3}
