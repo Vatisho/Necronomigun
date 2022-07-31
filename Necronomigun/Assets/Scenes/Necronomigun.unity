@@ -1545,6 +1545,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 528f46d3f40829341a0bd92580552203, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 528f46d3f40829341a0bd92580552203, type: 3}
       propertyPath: m_Name
       value: SodaCanCrushed
@@ -1904,6 +1908,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 34db5f817ececdf4fb7127a444ee514c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 34db5f817ececdf4fb7127a444ee514c, type: 3}
       propertyPath: m_Name
       value: Vase
@@ -12562,6 +12570,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 58f1722ca1ca210468f12e2d8591ab2f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 58f1722ca1ca210468f12e2d8591ab2f, type: 3}
       propertyPath: m_Name
       value: Mug
@@ -14961,6 +14973,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 270
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cbba27452d412e34eabbdff41fac3709, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: cbba27452d412e34eabbdff41fac3709, type: 3}
       propertyPath: m_Name
       value: Billboard
@@ -17396,6 +17412,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd4ebc1465b59c54c9fcc2a62a4f0951, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: fd4ebc1465b59c54c9fcc2a62a4f0951, type: 3}
       propertyPath: m_Name
       value: PlantPot
@@ -19894,6 +19914,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3c9cb77159f2c649b7c7eabca7f3278, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: f3c9cb77159f2c649b7c7eabca7f3278, type: 3}
       propertyPath: m_Name
       value: SodaCan
@@ -20034,6 +20058,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 404a6318e32039540b304868242c2e46, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 404a6318e32039540b304868242c2e46, type: 3}
       propertyPath: m_Name
       value: TikiTorch
@@ -24103,6 +24131,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 606bc55cbcbac02419b8fa045aaf4769, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 606bc55cbcbac02419b8fa045aaf4769, type: 3}
       propertyPath: m_Name
       value: Glass
@@ -26803,6 +26835,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 10ae42eb06226f74ca0b6dcbf1977ce5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 10ae42eb06226f74ca0b6dcbf1977ce5, type: 3}
       propertyPath: m_Name
       value: Firepit
@@ -37771,6 +37807,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d5e0b7408a4c52c4595532844bbc037b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: d5e0b7408a4c52c4595532844bbc037b, type: 3}
       propertyPath: m_Name
       value: Broom
@@ -41465,6 +41505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9b72ab7b3165e2449b577e519f0bbbf3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 9b72ab7b3165e2449b577e519f0bbbf3, type: 3}
       propertyPath: m_Name
       value: WineBottle
@@ -43280,6 +43324,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f527b77c692e1d4479536aeab1823fcc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: f527b77c692e1d4479536aeab1823fcc, type: 3}
       propertyPath: m_Name
       value: Radio
@@ -44064,6 +44112,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 96b61985e629b454fb447f53cbd69583, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 96b61985e629b454fb447f53cbd69583, type: 3}
       propertyPath: m_Name
       value: Sack2
@@ -44314,6 +44366,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e9049ba4d2f6e6f4eb8eebe451fd5fce, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: e9049ba4d2f6e6f4eb8eebe451fd5fce, type: 3}
       propertyPath: m_Name
       value: Stool
@@ -45199,6 +45255,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 081d3acb3c80e414fb71ab4cd267dff0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 081d3acb3c80e414fb71ab4cd267dff0, type: 3}
       propertyPath: m_Name
       value: Sack1
@@ -45979,6 +46039,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 707fdc3963b44f64981075f4c56cabe5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893a3b73bfda398459f625a4d3dee7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: 707fdc3963b44f64981075f4c56cabe5, type: 3}
       propertyPath: m_Name
       value: Barrel
