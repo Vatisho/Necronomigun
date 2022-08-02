@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c998720ed3864604c913a10f21320395
+guid: 14409fbe5096c374b986cedf691bbf81
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -41,7 +41,7 @@ ModelImporter:
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
-    importBlendShapes: 1
+    importBlendShapes: 0
     importCameras: 0
     importLights: 0
     nodeNameCollisionStrategy: 1
@@ -56,7 +56,7 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
-    optimizeBones: 1
+    optimizeBones: 0
     meshOptimizationFlags: 0
     indexFormat: 0
     secondaryUVAngleDistortion: 8
